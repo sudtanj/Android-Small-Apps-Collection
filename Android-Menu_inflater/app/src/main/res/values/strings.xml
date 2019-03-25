@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab7.2_12273_SudonoT</string>
+    <string name="hello">Hello World, OptionsMenuActivity</string>
+    <string name="new_game">New Game</string>
+    <string name="quit">Quit</string>
+
+</resources>
